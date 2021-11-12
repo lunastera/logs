@@ -1,0 +1,12 @@
+command:     ["echo", "triggered lunastera: set env"]
+user:        runner
+repoPath:    github.com/lunastera/github-actions-froshiki2-example
+projectPath: github.com/lunastera/github-actions-froshiki2-example
+gitRevision: 79c12b25ba3b99722e2a8026b5a8659d45ca8747
+furoVersion: 2.0.0-alpha
+exitCode:    0
+---
+Script started on 2021-11-12 03:29:00+00:00 [<not executed on terminal>]
+triggered lunastera: set env
+
+Script done on 2021-11-12 03:29:00+00:00 [COMMAND_EXIT_CODE="0"]
