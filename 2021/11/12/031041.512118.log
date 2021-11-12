@@ -1,0 +1,12 @@
+command:     ["echo", "triggered lunastera: log test"]
+user:        runner
+repoPath:    github.com/lunastera/github-actions-froshiki2-example
+projectPath: github.com/lunastera/github-actions-froshiki2-example
+gitRevision: 0a451290f4332bf149016cb4f95c6a49387f09f3
+furoVersion: 2.0.0-alpha
+exitCode:    0
+---
+Script started on 2021-11-12 03:10:41+00:00 [<not executed on terminal>]
+triggered lunastera: log test
+
+Script done on 2021-11-12 03:10:41+00:00 [COMMAND_EXIT_CODE="0"]
